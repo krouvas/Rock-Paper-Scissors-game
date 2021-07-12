@@ -118,32 +118,15 @@ def GetUserInput():
             break
         elif (rawuserInput == "Tips"):
             print(
-                "If you figure out the special Game Theory Algorithm that this Program uses you'll get 100/100")
+                "If you figure out the special Game Theory Algorithm that this Program uses you'll get 100%")
             time.sleep(2)
             continue
         elif (rawuserInput == "Credits"):
             print("""
-This program has been created completely with the use of Python3 and is my first experience on programming with this language
+This program has been created completely with the use of Python3 and is my first experience on programming with this language.
 
-I have been challenged by a fellow soldier to prove that i was infact capable of programming in order to vindicate my spot on the local laptop so...
-
-Andro Fakka tin to PC tora en diko m BUAHAHAHAHAHAHAHA
-
-Anw life is going smoothely, i get some random punishments here and there but when your vlocaptain keeps a grudge on you thats the definition of a smooth life
-
-
-Finally this program uses ideas and techniques which were studied and presented in the 2017 EuroMath Conference GC School presentation 
-"Game Theory" featuring various methods to maximise your chances of Success in different Game scenarios much like this one
-
-Special Thanks and Respect to our Teacher-Coaches:
-Christiana Hadjipandeli & Eleni Apostolou (The Amazing Duo)
-and ofcourse to my team mates formally, in the present time, known as:
-Captain Egli Metaxa
-Trusted Reserve Officer Kronides Glafkos
-Corporal Rouvas Kyriacos
-Private Georgiou Grigoris
-                                            ---Δνεας (ΠΖ) Ρούβας Κυριάκος
-                                            3/2/2019 -- ΕΓΑ/ΓΕΕΦ
+It uses ideas and techniques which were studied and presented in the 2017 EuroMath Conference GC School presentation 
+"Game Theory" featuring various methods to maximise your chances of Success in different Game scenarios much like this one.
             """)
             time.sleep(3)
             continue
