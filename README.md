@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-game
-Uses Random or Game Theory based approaches in an attempt to defeat the player.<br>
 This is a text-based game with score board functionality.<br>
+It uses Random or Game Theory based approaches in an attempt to defeat the player.<br>
 A compiled version of the script is provided.<br>
 Please note that running the program will generate a .json save file.
 
