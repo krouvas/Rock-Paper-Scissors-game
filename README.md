@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors-game
 Uses Random or Game Theory based approaches in an attempt to defeat the player.
+This is a text based game with score board functionality.
 
 <h2>Input List</h2>
 Enter User Name:
