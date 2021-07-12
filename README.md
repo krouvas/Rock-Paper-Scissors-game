@@ -47,3 +47,16 @@ Do you want to Keep on playing?
 
 	Game Theory	to go to game theory mode when random responce mode is already active i.e after random mode has been called
 	
+Required Python modules
+
+<ol>
+	<li>random</li>
+	<li>collections</li>
+	<li>tabulate</li>
+	<li>msvcrt</li>
+	<li>sys</li>
+	<li>time</li>
+	<li>datetime</li>
+	<li>json</li>
+	<li>os</li>
+</ol>
