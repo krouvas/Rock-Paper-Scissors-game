@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-game
 Uses Random or Game Theory based approaches in an attempt to defeat the player.
 
-# Input List
+<h1>Input List</h1>
 Enter User Name:
 
 	enter your user name
@@ -47,9 +47,9 @@ Do you want to Keep on playing?
 
 	Game Theory	to go to game theory mode when random responce mode is already active i.e after random mode has been called
 	
-Required Python modules
+<h1>Required Python modules</h1>
 
-<ol>
+<ul>
 	<li>random</li>
 	<li>collections</li>
 	<li>tabulate</li>
@@ -59,4 +59,4 @@ Required Python modules
 	<li>datetime</li>
 	<li>json</li>
 	<li>os</li>
-</ol>
+</ul>
