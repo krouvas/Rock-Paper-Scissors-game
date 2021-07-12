@@ -3,10 +3,12 @@ Uses Random or Game Theory based approaches in an attempt to defeat the player.
 
 # Input List
 Enter User Name:
+
 	enter your user name
 
 rock paper or scissors?
 	(enter choice)
+	
 	r
 	ro
 	roc
@@ -33,6 +35,7 @@ rock paper or scissors?
 
 
 Do you want to Keep on playing?
+
 	y
 	ye
 	yes	for yes
